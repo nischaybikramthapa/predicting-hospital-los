@@ -1,6 +1,6 @@
 # Predicting Length of Stay (LOS) in a Hospital
 
-# Author: Nischay Thapa
+## Author: Nischay Thapa
 
 Hospitals are constantly challenged to provide timely patient care while maintaining high resource utilization.   While this challenge has been around for many years,  the recent COVID-19 pandemic has increased its prominence.  For a hospital, the ability to predict the length of stay (LOS) of a  patient as early as possible (at the admission stage) is very useful in managing its resources. Particularly, we are interested in developing a machine learning model to predict if a patient will be discharged from a hospital early or will stay in a hospital for an extended period based on several attributes related to patient characteristics, diagnoses, treatments, services, hospital charges and patients socio-economic background. We formulate this task as a binary classification and predict whether a patient will be discharged within 3 days or stay longer.
 
